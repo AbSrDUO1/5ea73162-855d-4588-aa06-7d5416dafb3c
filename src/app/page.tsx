@@ -67,7 +67,6 @@ export default function Home() {
             { items: [ { label: 'Contact Us', onClick: () => { /* handle click */ } }, { label: 'Support', onClick: () => { /* handle click */ } } ]},
             { items: [ { label: 'FAQs', onClick: () => { /* handle click */ } }, { label: 'Careers', onClick: () => { /* handle click */ } } ]}
           ]} 
-          copyrightText="© 2023 NovaDesk. All rights reserved."
           onPrivacyClick={() => { /* handle click */ }}
           className="bg-transparent"
         />

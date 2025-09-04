@@ -67,7 +67,6 @@ export default function Home() {
             { items: [ { label: 'Contact Us', onClick: () => { /* handle click */ } }, { label: 'Support', onClick: () => { /* handle click */ } } ]},
             { items: [ { label: 'FAQs', onClick: () => { /* handle click */ } }, { label: 'Careers', onClick: () => { /* handle click */ } } ]}
           ]} 
-          onPrivacyClick={() => { /* handle click */ }}
           className="bg-transparent"
         />
       </div>
